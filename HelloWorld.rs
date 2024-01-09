@@ -3,6 +3,9 @@
 
 Trying Out Different ways of Printing Hello World
 
+! in println means we are calling a macro of rust not the actual function
+also a function might not work in the similar way as macro
+
 */
 
 use std::fmt;
